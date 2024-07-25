@@ -1,3 +1,2 @@
 <?php
-echo '<h1>This is coming from code pipeline</h>';
-echo '<h2> changes in code...</h2>';
+echo '<h1>Bingo !!! Our first ever deployment of Php code on EC2 using CodeDepoy</h1>';
